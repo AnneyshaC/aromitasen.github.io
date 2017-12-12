@@ -312,7 +312,7 @@ img.img-responsive.glry-img {
 }
 .b-from-left{
 	position: absolute;
-	top: 43%;
+	top: 50%;
     left: -100%;
 }
 .b-animate-go:hover .b-from-left{
