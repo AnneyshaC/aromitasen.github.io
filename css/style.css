@@ -316,7 +316,8 @@ img.img-responsive.glry-img {
     left: -100%;
 }
 .b-animate-go:hover .b-from-left{
-	left: 20%;
+	left: 43%;
+	transform: translateX(-50%)
 }
 .b-wrapper:hover {
   background: rgba(185, 207, 237, 0.85);
